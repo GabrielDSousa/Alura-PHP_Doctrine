@@ -1,2 +1,13 @@
 /vendor/
 /vendor/doctrine/
+/vendor/doctrine/annotations/
+/vendor/doctrine/cache/
+/vendor/doctrine/collections/
+/vendor/doctrine/common/
+/vendor/doctrine/dbal/
+/vendor/doctrine/inflector/
+/vendor/doctrine/instantiator/
+/vendor/doctrine/lexer/
+/vendor/doctrine/orm/
+/vendor/doctrine/persistence/
+/vendor/doctrine/reflection/
