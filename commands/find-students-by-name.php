@@ -17,7 +17,7 @@ $studentList = $studentRepository->findBy([
     'name'=> $argv[1]
 ]);
 
-if (is_null($studentList)){
+if (empty($studentList)){
     echo "This student do not exist\n\n";
 }else{
     foreach ($studentList as $student) {
