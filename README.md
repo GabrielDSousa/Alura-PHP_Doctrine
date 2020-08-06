@@ -18,13 +18,11 @@ On Windows, I'm using [Chocolatey](https://chocolatey.org/)
 ```bash
 choco install php
 ```
-```bash
-choco install composer
-```
+[wip]
 
 ## Usage
 Open a terminal on the folder where is the code and type:
-[ wip_]
+[wip]
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
