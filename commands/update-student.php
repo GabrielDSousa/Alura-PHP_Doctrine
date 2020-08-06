@@ -14,7 +14,8 @@ $studentRepository = $entityManager->getRepository(Student::class);
  * @var Student $student
  */
 $student = $studentRepository->find($argv[1]);
-if(!is_null($student)){
+
+if(is_null($student)){
     echo "Student do not exist";
 }else{
     $student->setName($argv[2]);
