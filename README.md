@@ -5,11 +5,11 @@ This a trainning provided by [Alura](https://cursos.alura.com.br)
 
 Do this trainning in database and:
 
--See the advantages of using an ORM
--Map classes and relationships to the database
--Update the bank's schema through Migrations
--Organize your code in the repository
--Write queries independent of the bank with DQL
+- See the advantages of using an ORM
+- Map classes and relationships to the database
+- Update the bank's schema through Migrations
+- Organize your code in the repository
+- Write queries independent of the bank with DQL
 
 ## Installation
 
