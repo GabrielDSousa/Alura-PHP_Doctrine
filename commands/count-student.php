@@ -15,6 +15,6 @@ $query = $entityManager->createQuery($dql);
 $studentTotal= $query->getSingleScalarResult();
 
 
-echo "Total de alunos: " . $studentTotal[0];
+echo "Students total: " . $studentTotal[0];
 
 
