@@ -32,9 +32,15 @@ class Student
      */
     private $phones;
 
+    /**
+     * @ManyToMany(targetEntity="Course", mappedBy="students")
+     */
+    private $courses;
+
     public function __construct()
     {
         $this->phones = new ArrayCollection();
+        $this->courses = new ArrayCollection();
     }
 
     /**
@@ -80,5 +86,29 @@ class Student
     public function getPhones(): Collection
     {
         return $this->phones;
+    }
+
+    /**
+     * @param Course $course
+     * @return Student
+     */
+    public function addCourse(Course $course): self
+    {
+        if ($this->courses->contains($course)) {
+            return $this;
+        }
+
+        $this->courses->add($course);
+        $course->addStudent($this);
+
+        return $this;
+    }
+
+    /**
+     * @return Collection
+     */
+    public function getCourses(): Collection
+    {
+        return $this->courses;
     }
 }

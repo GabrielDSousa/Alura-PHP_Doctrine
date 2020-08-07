@@ -20,6 +20,7 @@ class Phone
     private $id;
 
     /**
+     * @var string
      * @Column(type="string")
      */
     private $number;

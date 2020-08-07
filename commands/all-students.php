@@ -26,7 +26,7 @@ if (is_null($studentList)){
                 return $phone->getNumber();
             })
         ->toArray();
-        echo "ID: {$student->getId()}\nName: {$student->getName()}";
+        echo "ID: {$student->getId()}\nName: {$student->getName()}\n";
         echo "Phones: ".implode(", ", $phones)."\n\n";
     }
 }
