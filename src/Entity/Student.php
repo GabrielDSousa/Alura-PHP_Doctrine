@@ -9,7 +9,7 @@ use Doctrine\Common\Collections\Collection;
 /**
  * Class Student
  * @package GabsDSousa\Doctrine\Entity
- * @Entity
+ * @Entity(repositoryClass="GabsDSousa\Doctrine\Repository\StudentRepository")
  */
 
 class Student

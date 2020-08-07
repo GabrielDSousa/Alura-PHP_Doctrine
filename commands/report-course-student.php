@@ -10,12 +10,7 @@ $entityManagerFactory = new EntityManagerFactory();
 $entityManager = $entityManagerFactory->getEntityManager();
 
 $studentsRepository = $entityManager->getRepository(Student::class);
-
-$studentClass = Student::class;
-$dql = "SELECT s, p, c FROM $studentClass s JOIN s.phones p JOIN s.courses c";
-$query = $entityManager->createQuery($dql);
-/**@var Student[] $students */
-$students = $query->getResult();
+$students = $studentsRepository->coursesPerStudent();
 
 foreach ($students as $student) {
     $phones = $student
