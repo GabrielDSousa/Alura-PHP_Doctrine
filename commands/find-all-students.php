@@ -1,5 +1,6 @@
 <?php
 
+use GabsDSousa\Doctrine\Entity\Phone;
 use GabsDSousa\Doctrine\Entity\Student;
 use GabsDSousa\Doctrine\Helper\EntityManagerFactory;
 
@@ -19,6 +20,13 @@ if (is_null($studentList)){
     echo "The list is empty\n\n";
 }else{
     foreach ($studentList as $student) {
-        echo "ID: {$student->getId()}\nName: {$student->getName()}\n\n";
+        $phones = $student
+            ->getPhones()
+            ->map(function (Phone $phone) {
+                return $phone->getNumber();
+            })
+        ->toArray();
+        echo "ID: {$student->getId()}\nName: {$student->getName()}";
+        echo "Phones: ".implode(", ", $phones)."\n\n";
     }
 }

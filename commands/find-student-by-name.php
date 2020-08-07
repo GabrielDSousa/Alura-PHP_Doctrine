@@ -20,5 +20,12 @@ $student = $studentRepository->findOneBy([
 if (is_null($student)){
     echo "This student do not exist\n\n";
 }else{
-    echo "ID: {$student->getId()}\nName: {$student->getName()}\n\n";
+    $phones = $student
+        ->getPhones()
+        ->map(function (Phone $phone) {
+            return $phone->getNumber();
+        })
+        ->toArray();
+    echo "ID: {$student->getId()}\nName: {$student->getName()}\n";
+    echo "Phones: ".implode(", ", $phones)."\n\n";
 }
