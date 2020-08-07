@@ -18,11 +18,48 @@ On Windows, I'm using [Chocolatey](https://chocolatey.org/)
 ```bash
 choco install php
 ```
-[wip]
+```bash
+choco install composer
+```
 
 ## Usage
 Open a terminal on the folder where is the code and type:
-[wip]
+```bash
+composer dumpautoload
+```
+```bash
+vendor\bin\doctrine-migrations migrations:migrate
+```
+
+Add a course
+```bash
+php .\commands\create-course.php <NAME>
+```
+
+Add a student
+```bash
+php .\commands\create-course.php <NAME> <PHONES>
+```
+
+Add a student to a course
+```bash
+php .\commands\add-student-to-course.php <ID STUDENT> <ID COURSE>
+```
+
+List students
+```bash
+php .\commands\all-students.php
+php .\commands\report-course-student.php
+```
+
+List students with courses
+```bash
+php .\commands\report-course-student.php
+```
+Remove student cascade with phones
+```bash
+php .\commands\remove-student.php <ID STUDENT>
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
