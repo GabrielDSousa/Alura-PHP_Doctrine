@@ -49,7 +49,6 @@ php .\commands\add-student-to-course.php <ID STUDENT> <ID COURSE>
 List students
 ```bash
 php .\commands\all-students.php
-php .\commands\report-course-student.php
 ```
 
 List students with courses
