@@ -25,7 +25,7 @@ choco install composer
 ## Usage
 Open a terminal on the folder where is the code and type:
 ```bash
-composer dumpautoload
+composer install
 ```
 ```bash
 vendor\bin\doctrine-migrations migrations:migrate
