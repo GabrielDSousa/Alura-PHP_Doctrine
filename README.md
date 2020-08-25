@@ -25,5 +25,6 @@ Open a terminal on the folder where is the code and type:
 [wip]
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/GabrielDSousa/PHP_Doctrine/blob/master/LICENSE.md)
+
 

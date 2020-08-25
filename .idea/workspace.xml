@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4b37c9e-c87f-4ba0-9cf5-a6a3cbaad7ba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Gabriel Ramos de Sousa &lt;gabrielramos.email@gmail.com&gt;DSousa" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/ocramius/proxy-manager" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1fjFMddLPvTIjR3dOmRq6iJnGo8" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.lang.actions.generation.PhpGenerateFieldAccessorHandlerBase$MyMemberChooser.fluent.setters.last.selected" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Estudo\Maratona php\PHP_Doctrine\src\Repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.EntityManagerFactory.php">
+    <configuration name="EntityManagerFactory.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/src/Helper/EntityManagerFactory.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="all-students.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/commands/all-students.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="create-student.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/commands/create-student.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="firstTest.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/firstTest.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <configuration name="student-by-id.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/commands/student-by-id.php">
+      <CommandLine>
+        <PhpTestInterpreterSettings>
+          <option name="interpreterName" value="PHP 7.4" />
+        </PhpTestInterpreterSettings>
+      </CommandLine>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.EntityManagerFactory.php" />
+        <item itemvalue="PHP Script.create-student.php" />
+        <item itemvalue="PHP Script.firstTest.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4b37c9e-c87f-4ba0-9cf5-a6a3cbaad7ba" name="Default Changelist" comment="" />
+      <created>1596723548150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596723548150</updated>
+      <workItem from="1596723551228" duration="10936000" />
+      <workItem from="1596806364158" duration="14154000" />
+      <workItem from="1596831340267" duration="367000" />
+    </task>
+    <task id="LOCAL-00001" summary="First class-Ambient prep, Initial config, EntityManager implementation, first connection">
+      <created>1596725494752</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596725494752</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore update">
+      <created>1596725671269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596725671269</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore update">
+      <created>1596726437049</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596726437049</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gitignore update">
+      <created>1596733271356</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1596733271356</updated>
+    </task>
+    <task id="LOCAL-00005" summary="second class: Entity implementation with annotations, line code to create schema, student add">
+      <created>1596735803497</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596735803497</updated>
+    </task>
+    <task id="LOCAL-00006" summary="third class: crud for student">
+      <created>1596744778423</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596744778423</updated>
+    </task>
+    <task id="LOCAL-00007" summary="third class: crud for student">
+      <created>1596745204305</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596745204305</updated>
+    </task>
+    <task id="LOCAL-00008" summary="third class: crud for student, typo">
+      <created>1596745447070</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1596745447070</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fourth class: phone new entity,relation OneToMany between Student Phone, migrations">
+      <created>1596820613653</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596820613653</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fifth class: ManyToMany with student and course">
+      <created>1596823161862</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596823161863</updated>
+    </task>
+    <task id="LOCAL-00011" summary="sixth class: DQL and eager fetch, catching students with courses">
+      <created>1596828506013</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1596828506013</updated>
+    </task>
+    <task id="LOCAL-00012" summary="sixth class: DQL and eager fetch, catching students with courses, typo">
+      <created>1596828532725</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1596828532725</updated>
+    </task>
+    <task id="LOCAL-00013" summary="seventh class: Custom repository class for student using querybuilder">
+      <created>1596830285875</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1596830285875</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First class-Ambient prep, Initial config, EntityManager implementation, first connection" />
+    <MESSAGE value="gitignore update" />
+    <MESSAGE value="second class: Entity implementation with annotations, line code to create schema, student add" />
+    <MESSAGE value="crud for student" />
+    <MESSAGE value="third class: crud for student" />
+    <MESSAGE value="third class: crud for student, typo" />
+    <MESSAGE value="fourth class: phone new entity,relation OneToMany between Student Phone, migrations" />
+    <MESSAGE value="fifth class: ManyToMany with student and course" />
+    <MESSAGE value="sixth class: DQL and eager fetch, catching students with courses" />
+    <MESSAGE value="sixth class: DQL and eager fetch, catching students with courses, typo" />
+    <MESSAGE value="seventh class: Custom repository class for student using querybuilder" />
+    <option name="LAST_COMMIT_MESSAGE" value="seventh class: Custom repository class for student using querybuilder" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="222" key="#EntityManagerFactory.php" timestamp="1596744826384">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="222" key="#EntityManagerFactory.php/0.0.1920.1080@0.0.1920.1080" timestamp="1596744826384" />
+    <state x="336" y="381" key="#SQL_Dialects" timestamp="1596829099906">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="336" y="381" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1596829099906" />
+    <state x="27" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596811890068">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="27" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596811890068" />
+    <state x="753" y="256" key="#com.intellij.ide.util.MemberChooser" timestamp="1596820742912">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="753" y="256" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1596820742912" />
+    <state x="669" y="222" key="#create-student.php" timestamp="1596735593990">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="222" key="#create-student.php/0.0.1920.1080@0.0.1920.1080" timestamp="1596735593990" />
+    <state x="669" y="222" key="#find-all-students.php" timestamp="1596736429920">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="222" key="#find-all-students.php/0.0.1920.1080@0.0.1920.1080" timestamp="1596736429920" />
+    <state x="669" y="222" key="#find-by-id.php" timestamp="1596736550043">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="222" key="#find-by-id.php/0.0.1920.1080@0.0.1920.1080" timestamp="1596736550043" />
+    <state x="669" y="222" key="#firstTest.php" timestamp="1596724930393">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="669" y="222" key="#firstTest.php/0.0.1920.1080@0.0.1920.1080" timestamp="1596724930393" />
+    <state x="593" y="102" key="CommitChangelistDialog2" timestamp="1596830284258">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="593" y="102" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1596830284258" />
+    <state x="184" y="90" key="DiffContextDialog" timestamp="1596726345615">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="184" y="90" key="DiffContextDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596726345615" />
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1596828157812">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1596828157812" />
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1596745530717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596745530717" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1596745530717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596745530717" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1596745530717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596745530717" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1596745530717">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596745530717" />
+    <state x="343" y="337" key="NewPhpClassDialog" timestamp="1596828909245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="343" y="337" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596828909245" />
+    <state x="794" y="463" key="NewPhpFileDialog" timestamp="1596828036245">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="794" y="463" key="NewPhpFileDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596828036245" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1596830912101">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1596830912101" />
+  </component>
+</project>
