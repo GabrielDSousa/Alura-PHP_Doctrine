@@ -151,6 +151,7 @@
       <workItem from="1596723551228" duration="10936000" />
       <workItem from="1596806364158" duration="14154000" />
       <workItem from="1596831340267" duration="367000" />
+      <workItem from="1598389515097" duration="317000" />
     </task>
     <task id="LOCAL-00001" summary="First class-Ambient prep, Initial config, EntityManager implementation, first connection">
       <created>1596725494752</created>
@@ -262,7 +263,8 @@
     <MESSAGE value="sixth class: DQL and eager fetch, catching students with courses" />
     <MESSAGE value="sixth class: DQL and eager fetch, catching students with courses, typo" />
     <MESSAGE value="seventh class: Custom repository class for student using querybuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="seventh class: Custom repository class for student using querybuilder" />
+    <MESSAGE value="readme an license update" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme an license update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="669" y="222" key="#EntityManagerFactory.php" timestamp="1596744826384">
